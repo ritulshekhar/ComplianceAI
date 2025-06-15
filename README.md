@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![OpenAI](https://img.shields.io/badge/openai-gpt--4o-green.svg)](https://openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-compliance-checker.svg?style=social&label=Star)](https://github.com/yourusername/ai-compliance-checker)
+[![GitHub stars](https://img.shields.io/github/stars/ritulshekhar/ComplianceAI.svg?style=social&label=Star)](https://github.com/ritulshekhar/ComplianceAI)
 
 🛡️ **Detect regulatory violations across GDPR, SOC2, HIPAA, and RBI frameworks using advanced AI and NLP**
 
@@ -242,5 +242,3 @@ For support, email support@yourcompany.com or open an issue on GitHub.
 - [ ] Add multi-language support
 
 ---
-
-**Made with ❤️ for enterprise compliance and data protection**
