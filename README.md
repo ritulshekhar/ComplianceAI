@@ -65,7 +65,7 @@ This application helps enterprises automatically detect compliance violations in
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit>=1.28.0 openai>=1.3.0 pandas>=2.0.0 plotly>=5.17.0 spacy>=3.7.0 PyPDF2>=3.0.0 pdfplumber>=0.9.0 python-docx>=0.8.11 xlsxwriter>=3.1.0 python-dotenv>=1.0.0
    ```
 
 3. **Download spaCy model (optional, for enhanced PII detection)**
